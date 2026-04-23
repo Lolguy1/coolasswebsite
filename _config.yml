@@ -1,0 +1,5 @@
+title: c.a.w (cool ass website)
+description: [Bada Bada Bada it's a cool ass website, A coool ass website, Bada Bada Bada cool ass website made by a loling guy]
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
